@@ -14,12 +14,12 @@ Se uma tarefa precisa ser repetida, ela provavelmente pode ser automatizada.
 
 
 
-Essa ideia foi o que me trouxe para o desenvolvimento — e é o que me mantém aqui. Cada projeto nasce de um problema real, cada erro vira aprendizado, cada commit vira evolução.
+Essa ideia foi o que me trouxe para o desenvolvimento — e é o que me mantém aqui. Cada projeto nasce de um problema real, tomando frente a evolução e desenvolvimento.
 
  🔗 [LinkedIn](https://www.linkedin.com/in/artur-caldi-arantes-b77b69309)
 
 
-## 🚀 Projeto em Destaque
+## 👷​ Projeto em Destaque
 
 ### ACA_system
 
@@ -49,28 +49,7 @@ Em desenvolvimento ativo — contribuições e feedbacks são bem-vindos!
 <img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
 <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <br/><br/>
 
-
-## 📊 Estatísticas
-
-<table>
-  <tr>
-    <td>
-      <img
-        alt="GitHub Stats"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api?username=ArturCaldi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-      />
-    </td>
-    <td>
-      <img
-        alt="Top Langs"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturCaldi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-      />
-    </td>
-  </tr>
-</table>
-
-<sub>⚡ Em constante evolução — aprendendo a cada projeto, a cada erro e a cada commit.</sub>
+### <sub>⚡ Em constante evolução — aprendendo a cada projeto, a cada erro e a cada commit.</sub>
