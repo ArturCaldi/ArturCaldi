@@ -7,14 +7,11 @@ Desenvolvedor Back-End | Analista Tributário
 
 
 
-Sou Analista Tributário de segunda a sexta e desenvolvedor nas horas vagas, mas minha filosofia atravessa os dois mundos:
-
-
-Se uma tarefa precisa ser repetida, ela provavelmente pode ser automatizada.
+Sou Analista Tributário de segunda a sexta e desenvolvedor nas horas vagas.
 
 
 
-Essa ideia foi o que me trouxe para o desenvolvimento — e é o que me mantém aqui. Cada projeto nasce de um problema real, tomando frente a evolução e desenvolvimento.
+Cada projeto nasce de um problema real, tomando frente a evolução e desenvolvimento.
 
  🔗 [LinkedIn](https://www.linkedin.com/in/artur-caldi-arantes-b77b69309)
 
