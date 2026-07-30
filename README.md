@@ -1,9 +1,11 @@
-#### 👋 Olá, eu sou o Artur Caldi
+#### Olá, eu sou o Artur Caldi!
+
+
 
 Desenvolvedor Back-End | Analista Tributário
 
 
-☕ Transformo obrigações fiscais em declarações e café em código — às vezes na mesma tarde.
+Transformo obrigações fiscais em declarações e café em código — às vezes na mesma tarde.
 
 
 
@@ -16,9 +18,13 @@ Cada projeto nasce de um problema real, tomando frente a evolução e desenvolvi
  🔗 [LinkedIn](https://www.linkedin.com/in/artur-caldi-arantes-b77b69309)
 
 
-## 👷​ Projeto em Destaque
+## 🔨​ Projeto em Destaque
 
 ### ACA_system
+<img width="200" height="200" alt="ACA_system_logo" src="https://github.com/user-attachments/assets/dbd3a81d-e6ac-416a-9b44-555261a62415" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/0afd8ec1-c23e-4957-9ce9-314081aca7dc" />
+
+
 
 
 Sistema de gestão de obrigações acessórias fiscais
@@ -29,12 +35,8 @@ Desenvolvido com base na rotina real do mundo tributário, o ACA_system centrali
 
 Em desenvolvimento ativo — contribuições e feedbacks são bem-vindos!
 
-<!-- Adicione mais projetos aqui no futuro:
-### [Nome do Projeto](link)
-> Descrição curta
--->
 
-## 🛠️ Tecnologias & Ferramentas
+## 🔧 Tecnologias & Ferramentas
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
@@ -49,5 +51,3 @@ Em desenvolvimento ativo — contribuições e feedbacks são bem-vindos!
 <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="Postgresql" title="Postgresql" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <br/><br/>
-
-### <sub>⚡ Em constante evolução — aprendendo a cada projeto, a cada erro e a cada commit.</sub>
