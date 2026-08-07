@@ -18,7 +18,7 @@ Cada projeto nasce de um problema real, tomando frente a evolução e desenvolvi
  🔗 [LinkedIn](https://www.linkedin.com/in/artur-caldi-arantes-b77b69309)
 
 
-## 🔨​ Projeto em Destaque
+## 🔨​ Projetos em Destaque
 
 ### ACA_system
 <img width="200" height="200" alt="ACA_system_logo" src="https://github.com/user-attachments/assets/dbd3a81d-e6ac-416a-9b44-555261a62415" />
@@ -34,6 +34,17 @@ Sistema de gestão de obrigações acessórias fiscais
 Desenvolvido com base na rotina real do mundo tributário, o ACA_system centraliza o controle das empresas e auxilia o fisco no gerenciamento das obrigações acessórias — reduzindo retrabalho, prazos perdidos e aquela pilha infinita de planilhas.
 
 Em desenvolvimento ativo — contribuições e feedbacks são bem-vindos!
+
+
+### cClassTrib
+<img width="432" height="325" alt="image" src="https://github.com/user-attachments/assets/87635408-1856-4dec-bf68-dd2418bee958" />
+
+
+
+Sistema de pesquisa da Reforma Tributária
+
+
+Pesquisa relacional com base no NCM/NBS presente na tabela TIPI, consulta de reduções, isenções, CST e cClassTrib.
 
 
 ## 🔧 Tecnologias & Ferramentas
