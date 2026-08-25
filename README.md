@@ -21,7 +21,6 @@ Cada projeto nasce de um problema real, tomando frente a evolução e desenvolvi
 ## 🔨​ Projetos em Destaque
 
 ### ACA_system
-<img width="200" height="200" alt="ACA_system_logo" src="https://github.com/user-attachments/assets/dbd3a81d-e6ac-416a-9b44-555261a62415" />
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/0afd8ec1-c23e-4957-9ce9-314081aca7dc" />
 
 
