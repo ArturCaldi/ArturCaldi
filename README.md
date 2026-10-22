@@ -32,11 +32,12 @@ Sistema de gestão de obrigações acessórias fiscais
 
 Desenvolvido com base na rotina real do mundo tributário, o ACA_system centraliza o controle das empresas e auxilia o fisco no gerenciamento das obrigações acessórias — reduzindo retrabalho, prazos perdidos e aquela pilha infinita de planilhas.
 
-Em desenvolvimento ativo — contribuições e feedbacks são bem-vindos!
+Em desenvolvimento ativo 🟢
 
 
 ### cClassTrib
-<img width="432" height="325" alt="image" src="https://github.com/user-attachments/assets/87635408-1856-4dec-bf68-dd2418bee958" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/a6b34ea0-d714-4313-9384-cdcae3d97aab" />
+
 
 
 
@@ -45,6 +46,15 @@ Sistema de pesquisa da Reforma Tributária
 
 Pesquisa relacional com base no NCM/NBS presente na tabela TIPI, consulta de reduções, isenções, CST e cClassTrib.
 
+
+### LoteNFS-e
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/b344e09f-3370-4fda-b895-eaaf8d428bce" />
+
+
+
+Extensão para Chrome e Edge para baixar notas de serviço no Portal Nacional.
+
+A solução solicita o certificado digital da empresa (A1) e verificação de conta em meio de pagamento Stripe e alocação de servidor em Firebase/Google Cloud.
 
 ## 🔧 Tecnologias & Ferramentas
 
