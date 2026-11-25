@@ -8,7 +8,12 @@
 <a href="mailto:arturcaldiarantes@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=F2A93B&labelColor=0D1117" />
 </a>
-<img src="https://img.shields.io/badge/Curitiba%20--%20PR-0D1117?style=for-the-badge&logo=googlemaps&logoColor=F2A93B&labelColor=0D1117" />
+<a href="https://instagram.com/arturkj_">
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F2A93B&labelColor=0D1117" />
+</a>
+<a href="https://x.com/log3n_ex_">
+  <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=F2A93B&labelColor=0D1117" />
+</a>
 
 <br/><br/>
 
