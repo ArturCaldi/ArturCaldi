@@ -81,11 +81,6 @@ Baixa notas de serviço em lote no Portal Nacional usando certificado digital A1
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArturCaldi&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=F2A93B&icon_color=F2A93B&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturCaldi&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=F2A93B&text_color=C9D1D9" />
-
-<br/>
-
 <img width="98%" src="https://streak-stats.demolab.com?user=ArturCaldi&theme=transparent&hide_border=true&ring=F2A93B&fire=F2A93B&currStreakLabel=F2A93B&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 
 <br/><br/>
